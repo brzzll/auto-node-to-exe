@@ -11,4 +11,4 @@
   - 
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/kEB3PCPkzc** o **https://dsc.gg/zenxcorp** )
-- (Video de presentación)[https://www.youtube.com/watch?v=8WtCSm4KUzI&ab_channel=bznt]
+- Video de presentación: https://www.youtube.com/watch?v=8WtCSm4KUzI&ab_channel=bznt
