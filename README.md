@@ -3,7 +3,7 @@
 </div>
 
 # Auto-node-to-exe
-**Convierte** tus **proyectos de Node.js** en **ejecutables** ( **.exe** )
+**Convierte** tus **proyectos de Node.js** en **ejecutables** ( **.exe** ).
 
 - Cómo **convertir** mi proyecto de **Node.js** a un **ejecutable** ?
   - **[ Paso 1 ]**: Abrir **Auto-node-to-exe** y colocar el **directorio** de tu **proyecto Node.js**.
