@@ -14,9 +14,8 @@
 - Video de presentación: 
 
 
-# Ultimos cambios
-- V2
-  - Código mas dificil de penetrar.
-  - Soporte de node_modules y require() mejorado.
-  - Errores de inject solucionados.
-  - Estabilidad aumentada al chequear las dependencias.
+# Versión 2.0
+- Cambios:
+  - Errores de **inyección** solucionados.
+  - Ejecutable independiente, los módulos son **empaquetados** en el **ejecutable**.
+  - Se agregó una opción para proteger código.
