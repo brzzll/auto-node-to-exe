@@ -11,7 +11,7 @@
   - **[ Paso 3 ]**: Disfrutar de tu archivo ejecutable.
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/kEB3PCPkzc** o **https://dsc.gg/zenxcorp** )
-- Video de presentación: 
+- Video de presentación: https://youtu.be/lNdeo5MD9UM
 
 
 # Versión 2.0
