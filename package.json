@@ -1,0 +1,15 @@
+{
+  "name": "auto-node-to-exe",
+  "version": "1.0.0",
+  "description": "ZenX-Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZenX-Team",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "path": "^0.12.7"
+  }
+}
