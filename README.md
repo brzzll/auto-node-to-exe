@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://cdn.discordapp.com/attachments/1172295274379612210/1231129978939379742/image.png?ex=6624b2a4&is=66236124&hm=940631c208424919a38a6dd1c3a7b6af785683b6ea7b1252c923b5411cbd157f&broquevesxdxd">
+  <img  src="https://media.discordapp.net/attachments/1172295274379612210/1239307880457441300/image.png?ex=664272e7&is=66412167&hm=a3f8283119064648ddf43ca104d7efaecf77059b240e655b20007bf607b7e8fb&=&format=webp&quality=lossless&width=1225&height=625">
 </div>
 
 # Auto-node-to-exe
