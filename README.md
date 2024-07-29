@@ -10,7 +10,7 @@
   - **[ Paso 2 ]**: Esperar que **Auto-node-to-exe** haga su trabajo.
   - **[ Paso 3 ]**: Disfrutar de tu archivo ejecutable.
 - Dónde puedo conseguir **ayuda** ?
-  - En el servidor de **Z**en**X** ( **https://discord.gg/kEB3PCPkzc** o **https://dsc.gg/zenxcorp** )
+  - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 - Video de presentación: https://youtu.be/lNdeo5MD9UM
 
 
