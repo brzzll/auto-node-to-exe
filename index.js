@@ -15,7 +15,7 @@ function banner() {
     (_____  )     | .'| | |  _| . |___${chalk.greenBright(`|   | . | . | -_|`)}___|  _| . |___${chalk.cyan(`| -_|_'_| -_|`)}
     /\\|_|)  |     |__,|___|_| |___|   ${chalk.greenBright(`|_|_|___|___|___|`)}   |_| |___|   ${chalk.cyan(`|___|_,_|___|`)}
     \\_______) 
-       |_|        ${chalk.greenBright(`V2 ~ by ZenX-Team`)} | discord.gg/kEB3PCPkzc
+       |_|        ${chalk.greenBright(`V2 ~ by ZenX-Team`)} | discord.gg/zCQ8jQ2GBf
 
     `));
 }
