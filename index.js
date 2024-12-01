@@ -1,4 +1,4 @@
-var chalk = require_source();
+var chalk = require('chalk');
 var path = require("path");
 var fs = require("node:fs");
 var { exec } = require("node:child_process");
